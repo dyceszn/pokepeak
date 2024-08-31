@@ -1,6 +1,6 @@
 <template>
   <ul
-    class="border-y border-black w-[75%] h-12 flex items-center gap-10 overflow-hidden"
+    class="border-y border-black w-[90%] h-12 flex items-center gap-10 overflow-hidden md:w-[75%]"
   >
     <li>Pikachu</li>
     <li>Charmander</li>

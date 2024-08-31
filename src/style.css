@@ -40,3 +40,13 @@ input {
 ul {
   list-style-type: disc;
 }
+
+/* Media query */
+@media screen and (max-height: 875px) {
+  body {
+    overflow-y: scroll;
+  }
+  #app {
+    height: 875px;
+  }
+}
