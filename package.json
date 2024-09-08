@@ -9,9 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "axios": "^1.7.6",
+    "firebase": "^10.13.1",
     "vue": "^3.4.37"
   },
   "devDependencies": {
+    "@types/google.maps": "^3.57.0",
     "@vitejs/plugin-vue": "^5.1.2",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.41",

@@ -1,18 +1,11 @@
 <template>
-  <ul
-    class="border-y border-black w-[90%] h-12 flex items-center gap-10 overflow-hidden md:w-[75%]"
+  <div
+    class="w-[60%] h-16 md:h-20 bg-[var(--secondary)] rounded-full p-8 flex justify-center items-center"
   >
-    <li>Pikachu</li>
-    <li>Charmander</li>
-    <li>Bulbasaur</li>
-    <li>Squirtle</li>
-    <li>Rattatta</li>
-    <li>JigglyPuff</li>
-    <li>Eevee</li>
-    <li>Snorlax</li>
-    <li>Magikarp</li>
-    <li>Dragonite</li>
-  </ul>
+    <p class="text-sm text-center">
+      &copy; dycelabs 2024. All Rights Reserved.
+    </p>
+  </div>
 </template>
 
 <script lang="ts">
