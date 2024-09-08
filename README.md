@@ -1,6 +1,6 @@
 # PokéPeak
 
-**Explore and mark Pokémon sightings on an interactive, community-driven map!** PokéPeak invites you to dive into a world where Pokémon enthusiasts can track and share their Pokémon discoveries. Developed with Vue, this project is part of **DyceLabs**, a collection of innovative and creative side projects. Join the adventure and see what others are discovering!
+**Explore and mark Pokémon sightings on an interactive, community-driven map!** PokéPeak invites you to dive into a world where Pokémon enthusiasts can track and share their Pokémon discoveries. Developed with Vue, this project is part of **dyceLabs**, a collection of innovative and creative side projects. Join the adventure and see what others are discovering!
 
 ## Features
 
